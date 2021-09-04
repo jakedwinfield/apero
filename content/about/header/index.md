@@ -3,8 +3,8 @@
 text_align_right: false
 show_title_as_headline: false
 headline: |
-  Hi, my name is Emily Cooper. Nice to meet you.
+  About me
 ---
 
 <!-- this is a subheadline -->
-I'm a driven 20-something American from Chicago who moved to Paris for an unexpected job opportunity. I've been tasked with bringing an American point of view to a venerable French marketing firm. :fr:
+I am a Ph.D. student in Policy and Organizational Studies at Temple University. I research the intersection of community-university relationships and college access for minoritized students using multiple methods and critical race theory. I currently works as a teaching assistant for undergraduate research methods courses and general education courses in the College of Education and Human Development. Before graduate school, I taught high school math in rural Arkansas and Phoenix, Arizona in high schools that predominantly served Black and Latinx students, respectively.

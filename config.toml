@@ -31,9 +31,9 @@ enableEmoji = true
   orgName = "Jake D. Winfield"
   orgLocal = "Philadelphia, PA"
   description = "Jake Winfield's personal website."
-  favicon = "/img/favicon.ico"
-  logo = "/img/blogophonic-mark-dark.png"
-  mainSections = ["blog", "project", "talk"]
+  favicon = "/img/logo.png"
+  logo = "/img/logo.png"
+  mainSections = ["blog", "project"]
   navallcaps = true
   # show/hide social icons in site header & footer
   # configure social icons and links below in [[params.social]]
@@ -113,7 +113,7 @@ enableEmoji = true
 [menu]
   [[menu.header]]
     name = "About"
-    title = "About Blogophonic"
+    title = "About me"
     url = "/about/"
     weight = 1
   [[menu.header]]

@@ -3,7 +3,7 @@
 title: "What I'm up to lately" # leave blank to exclude
 number_featured: 1 # pulling from mainSections in config.toml
 number_categories: 2 # set to zero to exclude
-show_intro: true
+show_intro: false
 intro: |
   Below is some of my recent work.
 show_outro: false

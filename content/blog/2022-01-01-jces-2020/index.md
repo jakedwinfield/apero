@@ -1,7 +1,7 @@
 ---
 title: 'The Role of Race in Urban Community-University Relationships'
 author: Jake D. Winfield & James Earl Davis
-date: '2022-01-01'
+date: '2021-12-31'
 slug: JCES-2020
 categories:
   - Research

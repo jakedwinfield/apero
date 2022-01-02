@@ -11,7 +11,7 @@ tags:
   - Open Access
 subtitle: 'Moving from Interest Convergence to Critical Literacy'
 excerpt: 'In this open-access article published in the [*Journal of Critical Scholarship on Higher Education and Student Affairs*](https://ecommons.luc.edu/jcshesa/vol5/iss3/5/), Dr. James Earl Davis and I explore how race and racism often inform community-university relationships.'
-draft: yes
+draft: no
 series: ~
 layout: single
 ---

@@ -9,7 +9,7 @@ tags:
   - Mission Statements
 subtitle: 'An analysis of mission statements from first-generation serving institutions'
 excerpt: "In this article, we analyze mission statements of colleges that have made an explicit, public commitment to serving first-gen students by becoming recognized as First-gen forward institutions by NASPA's Center for First-generation Student Success."
-draft: yes
+draft: no
 series: ~
 layout: single
 ---

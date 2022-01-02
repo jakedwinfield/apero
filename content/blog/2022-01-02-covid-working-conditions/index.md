@@ -31,3 +31,5 @@ Winfield, J. D. & Paris, J. H. (2021). *A mixed method analysis of burnout and t
 Winfield, J. D. & Paris, J. H. (in press). Burnout and working conditions in higher education during COVID-19: Recommendations for policy and practice. *College & University.*
 
 The pre-print is also available through the [Temple University Institutional Repository](https://scholarshare.temple.edu/handle/20.500.12613/6962). A PDF of the *College & University* publication can be shared on request. 
+
+The cover image for this paper was generated with the [aRtsy package](https://koenderks.github.io/aRtsy/) by Jake Winfield.

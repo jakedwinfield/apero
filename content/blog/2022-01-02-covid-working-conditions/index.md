@@ -14,7 +14,7 @@ tags:
   - Pre-print
 subtitle: ''
 excerpt: 'In this article, we analyze survey data of 1,080 higher education professionals in the United States about their working conditions during Fall 2020 semester.'
-draft: No
+draft: false
 series: ~
 layout: single
 ---

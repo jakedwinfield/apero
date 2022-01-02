@@ -23,3 +23,5 @@ Pressimone Beckowski, C. M. & Winfield, J. D. (2021). Towards a culture of stude
 Pressimone Beckowski, C. M., Winfield, J. D., & Mokofisi, M. (2021, November 18). *Making missions work: Mission-driven first-generation student initiatives* [Webinar]. NASPA Center for First-generation Student Success. 
 
 A PDF of this paper is available upon request.
+
+The cover image from this paper was generated with [Tinkersynth](https://tinkersynth.com/) by Jake Winfield.

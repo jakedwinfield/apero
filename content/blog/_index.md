@@ -1,12 +1,11 @@
 ---
-title: A Blog That Works
+title: Research
 description: |
-  This is a fully featured blog that supports categories, 
-  tags, series, and pagination.
-author: "The R Markdown Team @RStudio"
+  A catalog of my research.
+author: "Jake D. Winfield"
 show_post_thumbnail: true
 show_author_byline: true
-show_post_date: true
+show_post_date: false
 # for listing page layout
 layout: list # list, list-sidebar, list-grid
 

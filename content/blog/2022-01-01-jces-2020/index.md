@@ -28,3 +28,5 @@ Winfield, J. D. & Davis, J. E. (2021, April 21). Disrupting the commonplace: Ref
 
 
 This paper is also archived in Temple University's institutional repository [here](https://scholarshare.temple.edu/handle/20.500.12613/7069). 
+
+The cover image for this paper was generated with the [aRtsy package](https://koenderks.github.io/aRtsy/) by Jake Winfield.

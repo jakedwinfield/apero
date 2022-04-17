@@ -3,7 +3,7 @@ title: "AERA 2022"
 subtitle: "Conference Papers"
 excerpt: "This project lists all my presentations for the 2022 AERA Annual Meeting in San Diego."
 date: 2022-04-17
-author: "Jake Winfield"
+author: "Jake D. Winfield"
 draft: false
 tags:
   - hugo-site
@@ -17,9 +17,11 @@ links:
   url: https://www.aera.net/Events-Meetings/2022-Annual-Meeting/
 
 ---
+![Logo](horvath_cover.jpg)
+---
 ## AERA 2022
 
-I am presenting the following papers in San Diego for AERA's annual meeting. 
+I am presenting the following papers in San Diego for AERA's annual meeting. Please reach out via [email](mailto:jakewinfield@temple.edu) if you'd like a copy of any of these works in progress.
 
 ### Thursday, April 21
 
@@ -38,4 +40,8 @@ Daniels, D., Winfield, J. D., & Davis, J. E. (2022, April 21-26). *A golden oppo
 Paris, J. H. & Winfield, J. D. (2022, April 21-26). *Burnout and turnover intentions among higher education professionals during COVID-19: A mixed methods analysis* [Paper Presentation]. American Educational Research Association Annual Meeting, San Diego, CA.
 
 This paper has been published in the [*Journal of Education Human Resources*](https://utpjournals.press/doi/10.3138/jehr-2021-0048) and is available as a preprint [here](https://jakedwinfield.com/blog/covid-working-conditions/)
+
+
+#### Image Credit
+The cover image for this page is a photo by [Richard Horvath](https://unsplash.com/@orwhat) on [Unsplash](https://unsplash.com/photos/cPccYbPrF-A).
 

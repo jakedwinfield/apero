@@ -1,6 +1,6 @@
 ---
 title: Projects & Resources
-description: "A collection of resources and projects ."
+description: "A collection of resources and projects."
 author: "Jake D. Winfield"
 show_post_thumbnail: true
 show_author_byline: false

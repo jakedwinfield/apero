@@ -1,66 +1,41 @@
 ---
-title: "Bakeoff"
-subtitle: "An R Package"
-excerpt: "This theme has a form-to-email feature built in, thanks to the simple Formspree integration. All you need to activate the form is a valid recipient email address saved in the form front matter."
-date: 2019-07-01
-author: "Eric Anderson"
+title: "AERA 2022"
+subtitle: "Conference Papers"
+excerpt: "This project lists all my presentations for the 2022 AERA Annual Meeting in San Diego."
+date: 2022-04-17
+author: "Jake Winfield"
 draft: false
 tags:
   - hugo-site
 categories:
-  - Theme Features
-  - R
-  - package
+  - Conferences
 layout: single
 links:
 - icon: door-open
   icon_pack: fas
-  name: website
-  url: https://bakeoff.netlify.com/
-- icon: github
-  icon_pack: fab
-  name: code
-  url: https://github.com/apreshill/bakeoff
----
-
-{{< here >}}
-
-![Formspree Logo](formspree-logo.png)
-
-## [Formspree](https://formspree.io) makes it easy to receive submissions from HTML forms on your static website.
+  name: aera website
+  url: https://www.aera.net/Events-Meetings/2022-Annual-Meeting/
 
 ---
+## AERA 2022
 
-### Functional Form
+I am presenting the following papers in San Diego for AERA's annual meeting. 
 
-This theme has a **form-to-email** feature built in, thanks to the simple Formspree integration. All you need to activate the form is a valid recipient email address saved in the front matter of the form
-(`/content/forms/contact.md`). Of course, the example shown below (`your@email.here`) must not be used. Please use your actual email address.
+### Thursday, April 21
 
-```toml
-# please replace with a valid Formspree form id or email address
-formspree_form_id: your@email.here
-```
+Winfield, J. D. (2022, April 21-26). *Racial harassment and the Black-White AP enrollment gap: A multilevel analysis*. [Roundtable]. American Educational Research Association Annual Meeting, San Diego, CA.
 
-Update that file and you're ready to begin receiving submissions. Just submit
-the active form for the first time, and complete the email address verification
-step with Formspree, and your contact form is live. The next time someone
-fills it out, the submission will land in your inbox.
+### Friday, April 22
 
-### Multiple Layouts
+Winfield, J. D., Fiorot, S., Pressimone Beckowski, C., Daniels, D., & Davis, J.E. (2022, April 21-26). *“They call me the other parent”: Othermothering in a community-led after-school program for Black youth.* [Roundtable]. American Educational Research Association Annual Meeting, San Diego, CA.
 
-The files included with the theme have a contact page ready for copy/paste, or
-you can type `hugo new forms/contact.md` and you're off to the races. There are two
-layouts for `forms` – `split-right`, and `split-left` – you guessed it, one puts
-the form on the right and the other on the left. You just fill out the front
-matter, and the rest is automatic.
+### Saturday, April 23
 
-```toml
-# layout options: split-right or split-left
-layout: split-right
-```
+Daniels, D., Winfield, J. D., & Davis, J. E. (2022, April 21-26). *A golden opportunity: The Black professoriate and graduation rates at predominantly White institutions* [Paper Presentation]. American Educational Research Association Annual Meeting, San Diego, CA. 
 
-![Contact Form Split Right Layout Screenshot](built-in-contact-form-screenshot.png)
+### Tuesday, April 26
 
-Both layouts display the page title and description opposite the form, and you
-can also choose to show your social icon links if you have those configured in
-the `config.toml` file.
+Paris, J. H. & Winfield, J. D. (2022, April 21-26). *Burnout and turnover intentions among higher education professionals during COVID-19: A mixed methods analysis* [Paper Presentation]. American Educational Research Association Annual Meeting, San Diego, CA.
+
+This paper has been published in the [*Journal of Education Human Resources*](https://utpjournals.press/doi/10.3138/jehr-2021-0048) and is available as a preprint [here](https://jakedwinfield.com/blog/covid-working-conditions/)
+

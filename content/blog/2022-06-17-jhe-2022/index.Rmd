@@ -1,6 +1,6 @@
 ---
 title: 'Institutionalizing Success'
-author: Jake D. Winfield
+author: Jennifer M. Johnson & Jake D. Winfield
 date: '2022-06-17'
 slug: jhe-2022
 categories:

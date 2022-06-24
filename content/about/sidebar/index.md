@@ -9,7 +9,7 @@ audio_link_label: ""
 link_list_label: "" # bookmarks, elsewhere, etc.
 link_list:
 - name: C.V.
-  url: https://drive.google.com/file/d/1A7sl5EwMFhPOdaZFuBW7QWQImw-yIzso/view?usp=sharing
+  url: https://drive.google.com/file/d/1PcEL7urb-C7btBjck04yPPzIYPc6u1Vk/view?usp=sharing
 
 ---
 

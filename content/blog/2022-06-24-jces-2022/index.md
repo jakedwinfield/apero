@@ -24,6 +24,6 @@ Universities are increasingly prioritizing engagement and collaboration with the
 ### Citation
 Winfield, J. D., Fiorot, S., Pressimone Beckowski, C., & Davis, J. E. (2022). *Journal of Community Engagement and Scholarship, 14*(12), Article 14. [https://digitalcommons.northgeorgia.edu/jces/vol14/iss2/14/]()
 
-The *Journal of Community Engagement and Scholarship* is an open-access journal. An archive of this paper has also been published at Temple University's Institutional Repository.
+The [*Journal of Community Engagement and Scholarship*](https://digitalcommons.northgeorgia.edu/jces) is an open-access journal. An archive of this [paper](http://dx.doi.org/10.34944/dspace/7895) has also been published at Temple University's [Institutional Repository](https://scholarshare.temple.edu).
 
 The cover image for this paper was generated with [Tinkersynth](https://tinkersynth.com) by Jake Winfield.

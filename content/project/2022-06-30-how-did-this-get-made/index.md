@@ -52,4 +52,5 @@ Hill has recorded [numerous videos on YouTube](https://www.youtube.com/playlist?
 The code for my website is available on my [github](https://github.com/jakedwinfield/apero) - it is admittedly not nearly as nice or well docmented as Hill's work above but can show you what the back-end of this site looks like in practice. Feel free to reach out if you'd like help troubleshooting.
 
 ##### Image Credit
-The cover image for this page is a photo by [Richard Horvath](https://unsplash.com/@orwhat) on [Unsplash](https://unsplash.com/photos/cPccYbPrF-A).
+The cover image for this paper was generated with the [aRtsy package](https://koenderks.github.io/aRtsy/) by Jake Winfield.
+

@@ -31,8 +31,8 @@ enableEmoji = true
   orgName = "Jake D. Winfield"
   orgLocal = "Philadelphia, PA"
   description = "Jake Winfield's personal website."
-  favicon = "/img/logo.png"
-  logo = "/img/logo.png"
+  favicon = "/img/logo-water.png"
+  logo = "/img/logo-water.png"
   mainSections = ["blog", "project"]
   navallcaps = true
   # show/hide social icons in site header & footer
@@ -41,14 +41,14 @@ enableEmoji = true
   socialInFooter = true
   # Default image for social sharing and search engines. 
   # Place image file in `static` folder and specify image name here.
-  sharing_image = "/img/papillons.jpg"
+  sharing_image = "/img/logo.png"
   # Twitter username (without @). Used when a visitor shares your site on Twitter.
   twitter = "JakeWinfield"
   
   # use a built-in color theme
   # one of: forest / grayscale / peach / plum /
   #         poppy / sky / violet / water 
-  theme = "poppy"
+  theme = "water"
   
   # or, leave theme empty & make your own palette
   # see docs at https://hugo-apero.netlify.app/blog/color-themes/
@@ -81,6 +81,10 @@ enableEmoji = true
       icon      = "semantic-scholar" # icon name without the 'fa-'
       icon_pack = "ai"
       url       = "https://www.semanticscholar.org/author/J.-Winfield/2037891665"
+  [[params.social]]
+      icon      = "google-scholar" # icon name without the 'fa-'
+      icon_pack = "ai"
+      url       = "https://scholar-google-com.libproxy.temple.edu/citations?user=4Rr-1ZoAAAAJ&hl=en"
  [[params.social]]
       icon      = "linkedin" # icon name without the 'fa-'
       icon_pack = "fab"
@@ -94,11 +98,6 @@ enableEmoji = true
       icon_pack = "fas"
       url       = "mailto:jakewinfield@temple.edu"
 
-
-#  [[params.social]]
-#      icon      = "instagram" # icon name without the 'fa-'
-#      icon_pack = "fab"
-#      url       = "https://www.instagram.com/explore/tags/apero/"
 
  # [[params.social]]
   #    icon      = "rss" # icon name without the 'fa-'

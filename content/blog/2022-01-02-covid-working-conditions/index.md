@@ -20,6 +20,8 @@ layout: single
 ---
 In this article, Dr. Joseph Paris and I analyze survey data of 1,080 higher education professionals across 830 colleges and universities in the United States about their working conditions during the COVID-19 pandemic. From this survey data, collected from members of the [American Association of Collegiate Registrars and Admissions Officers](https://www.aacrao.org) in October 2020, we found that employees had increased expectations but fewer resources, leading to burnout and negative impacts on both the personal and professional lives of employees.
 
+A brief research summary is available [here](https://blog.utpjournals.com/2022/08/04/covid-19-and-the-higher-education-workplace-creating-a-community-of-care-to-address-burnout-and-employee-turnover/), with recommendations for thinking about how the pandemic has continued to impact working conditions in higher education well after the time period of our analysis. 
+
 We have also written a piece accepted for publication in *College & University* that provides recommendations for policy and practice for higher education leaders in times of crisis, including the COVID-19 pandemic and beyond. 
 
 ## Abstract
@@ -27,6 +29,8 @@ The COVID-19 pandemic rapidly and dramatically altered higher education includin
 
 #### Citations
 Winfield, J. D. & Paris, J. H. (2022). A mixed method analysis of burnout and turnover intentions among higher education professionals during COVID-19. *Journal of Education Human Resources* . Advance online publication. [https://doi.org/10.3138/jehr-2021-0048](https://doi.org/10.3138/jehr-2021-0048)
+
+Winfield, J. D. & Paris, J. H. (2022, August 4). COVID-19 and the higher education workplace: Creating a community of care to address burnout and employee turnover. *The University of Toronto Press Journals Blog.* [https://blog.utpjournals.com/2022/08/04/covid-19-and-the-higher-education-workplace-creating-a-community-of-care-to-address-burnout-and-employee-turnover/]() 
 
 Winfield, J. D. & Paris, J. H. (in press). Burnout and working conditions in higher education during COVID-19: Recommendations for policy and practice. *College & University.*
 

@@ -72,4 +72,4 @@ Teaching Assistant: Spring 2022 (Hybrid)
 As a doctoral candidate, I supported doctoral students throughout the semester as a resource to support their inquiries into different theories that were applicable to their research interests and perspectives. In addition to these one-on-one meetings, I lead the class session on critical race theory. After the conclusion of the course, I have collaborated on research projects with students that I met in this class.  
 
 ##### Image Credit
-The cover image for this project is Pollen_29_2980 by Danielle Navarro as part of her [**Cherish**](https://art.djnavarro.net/gallery/cherish/) gallery.
+The cover image for this project is Pollen_29_2980 by [Danielle Navarro](https://twitter.com/djnavarro) as part of her [**Cherish**](https://art.djnavarro.net/gallery/cherish/) gallery.

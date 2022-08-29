@@ -32,7 +32,7 @@ Winfield, J. D. & Paris, J. H. (2022). A mixed method analysis of burnout and tu
 
 Winfield, J. D. & Paris, J. H. (2022, August 4). COVID-19 and the higher education workplace: Creating a community of care to address burnout and employee turnover. *The University of Toronto Press Journals Blog.* [https://blog.utpjournals.com/2022/08/04/covid-19-and-the-higher-education-workplace-creating-a-community-of-care-to-address-burnout-and-employee-turnover/]() 
 
-Winfield, J. D. & Paris, J. H. (in press). Burnout and working conditions in higher education during COVID-19: Recommendations for policy and practice. *College & University.*
+Winfield, J. D. & Paris, J. H. (2022). Burnout and working conditions in higher education during COVID-19: Recommendations for policy and practice. *College & University, 97*(3) 61-64. [https://www.aacrao.org/research-publications/quarterly-journals/college-university-journal/article/c-u-vol.-97-no.-3-summer-2022/burnout-and-working-conditions-in-higher-education-during-covid-19-recommendations-for-policy-and-practice](https://www.aacrao.org/research-publications/quarterly-journals/college-university-journal/article/c-u-vol.-97-no.-3-summer-2022/burnout-and-working-conditions-in-higher-education-during-covid-19-recommendations-for-policy-and-practice)
 
 The pre-print is available through [SocArXiv](https://doi.org/10.31235/osf.io/dj62p) and [Temple University's Institutional Repository](https://scholarshare.temple.edu/handle/20.500.12613/6962). A PDF of the *College & University* publication can be shared on request. 
 

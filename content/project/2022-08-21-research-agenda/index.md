@@ -63,4 +63,4 @@ Winfield, J. D., Pressimone Beckowski, C. (2020, November 18-21). Self-ascribed 
 Winfield, J. D. (2022, November 16-19). Greener pastures: The racialized landscapes of urban colleges and universities. [Paper Presentation]. Association for the Study of Higher Education Annual Conference, Las Vegas, NV.
 
 ##### Image Credit
-The cover image for this project is Pollen_30_3043 by [Danielle Navarro](https://twitter.com/djnavarro) as part of her [**Cards**](https://art.djnavarro.net/gallery/cards/) gallery.
+The cover image for this project was created with Nicola Rennie's `aRt` package available [here](https://nrennie.github.io/aRt/).

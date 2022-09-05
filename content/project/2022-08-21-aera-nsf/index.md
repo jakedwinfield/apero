@@ -29,4 +29,4 @@ October 2021 [Narrative](Winfield_DP202110.pdf)
 January 2022 [Narrative](Winfield_DP202201.pdf) [Abstract & Contribution to the Field](Winfield_Abstract_202201.pdf)
 
 ##### Image Credit
-The cover image for this project is pollen_19_1918 by [Danielle Navarro](https://twitter.com/djnavarro) as part of her [**Dancers**](https://art.djnavarro.net/gallery/cards/) gallery.
+The cover image for this project was created with Nicola Rennie's `aRt` package available [here](https://nrennie.github.io/aRt/).

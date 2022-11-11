@@ -1,7 +1,7 @@
 ---
 title: Dissertation
 author: Jake D. Winfield
-date: '2022-08-21'
+date: '2022-11-11'
 slug: dissertation
 categories:
   - Dissertation
@@ -13,9 +13,9 @@ tags:
   - Dual Enrollment
 subtitle: ''
 excerpt: 'Information about my dissertation and AERA-NSF Dissertation Fellowship'
-draft: yes
+draft: no
 ---
-My dissertation, **Hiding in plain sight: A QuantCrit, Intersectional Analysis of Dual Enrollment**, applies critical race theory and critical quantitative analysis to dual enrollment. I also examine the importance of place - how one's proximity to a widely accessible college may influence one's ability to participate and then benefit from dual enrollment programs. 
+My dissertation, **Hiding in plain sight: A QuantCrit, Intersectional Analysis of Dual Enrollment**, applies critical race theory and critical quantitative analysis to dual enrollment. I also examine the importance of place - how one's proximity to a highly accessible college may influence one's ability to participate and then benefit from dual enrollment programs. 
 
 ### AERA-NSF Dissertation Fellowship
 I was awarded an AERA-NSF Dissertation Fellowship for the 2022-23 academic year for my study. Below is information about that project. 

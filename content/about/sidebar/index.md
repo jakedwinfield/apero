@@ -1,7 +1,7 @@
 ---
 ## Configure sidebar content in narrow column
 author: "Jake D. Winfield"
-role: "Graduate Student"
+role: "Senior Research Analyst"
 avatar_shape: circle # circle, square, rounded
 show_social_links: true # specify social accounts in site config
 show_audio_link: false

@@ -1,8 +1,8 @@
 ---
-title: "Jake D. Winfield"
-subtitle: "Ph.D. Candidate | Temple University"
-description: "working at the intersection of community-university partnerships and college access to create a just and equitable future"
-date: 2021-09-04T12:27:33-06:00
+title: "Jake D. Winfield, Ph.D."
+subtitle: "Senior Research Analyst | Detroit Public Schools Community District"
+description: "working to improve educational opportunities for Detroit's youth"
+date: 2023-10-11T12:27:33-06:00
 images:
   - img/WinfieldPhoto-modified.png
 image_left: true

@@ -21,11 +21,8 @@ My dissertation, **Hiding in plain sight: A QuantCrit, Intersectional Analysis o
 Here is a link to my [dissertation](https://scholarshare.temple.edu/handle/20.500.12613/8530) and [presentation for my dissertation defense](Winfield_Defense_20230418.pdf). 
 ### Presentations
 
-<<<<<<< HEAD
-Winfield, J. D. (2023, April 13-16). *Hiding in plain sight: A QuantCrit, intersectional analysis of dual enrollment* [Poster Presentation]. American Educational Research Association Annual meeting, Chicago, IL.[https://aera23-aera.ipostersessions.com/?s=07-E4-A1-7D-C7-48-4A-E4-D5-00-E1-26-38-46-05-6F](https://aera23-aera.ipostersessions.com/?s=07-E4-A1-7D-C7-48-4A-E4-D5-00-E1-26-38-46-05-6F)
-=======
-Winfield, J. D. (2023, April 13-16). *Hiding in plain sight: A QuantCrit, intersectional analysis of dual enrollment* [Poster Presentation]. American Educational Research Association Annual meeting, Chicago, IL.[https://aera23-aera.ipostersessions.com/?s=07-E4-A1-7D-C7-48-4A-E4-D5-00-E1-26-38-46-05-6F]()
->>>>>>> eeece8d53d22028d8956fc8313726678643c3252
+
+Winfield, J. D. (2023, April 13-16). *Hiding in plain sight: A QuantCrit, intersectional analysis of dual enrollment* [Poster Presentation]. American Educational Research Association Annual meeting, Chicago, IL. [https://aera23-aera.ipostersessions.com/?s=07-E4-A1-7D-C7-48-4A-E4-D5-00-E1-26-38-46-05-6F](https://aera23-aera.ipostersessions.com/?s=07-E4-A1-7D-C7-48-4A-E4-D5-00-E1-26-38-46-05-6F)
 
 Winfield, J. D. (2023, March 23-25). *Shifting sands: An analysis of college access deserts from 2001 to 2019* \[Paper Presentation\]. Association for Education Finance & Policy Annual Conference, Denver, CO.
 
